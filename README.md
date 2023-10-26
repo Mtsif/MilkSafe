@@ -25,9 +25,12 @@ Run the milksafe.sh script, providing the required input files and options:
 ./milksafe.sh -d protein_database.csv -m milk_sample.txt -e exosome_sample.txt
 ```
 Options
+```bash
 -d <protein table>: Specify the protein database for the analysis.
 -m <input file>: Specify the input file containing a protein list (milk sample).
 -e <input file>: Specify the input file containing a protein list (exosome sample).
+```
+
 The tool will perform protein analysis and generate output files.
 
 Output
