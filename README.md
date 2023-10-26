@@ -1,6 +1,6 @@
 # MilkSafe - Milk Proteome Evaluation Tool
 
-MilkSafe is a command-line tool for analyzing milk proteome data. It processes protein data from milk and exosome samples and generates UpSet plots to visualize protein intersections.
+MilkSafe is a versatile command-line tool designed for in-depth analysis of milk proteome datasets. It empowers researchers to seamlessly process protein data extracted from both milk and exosome samples. MilkSafe's comprehensive analysis capabilities enable users to gain valuable insights into protein intersections, and it provides a powerful visualization tool in the form of UpSet plots, making it easier to understand and interpret complex proteomic data.
 
 ## Getting Started
 
