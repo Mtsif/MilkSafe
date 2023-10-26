@@ -17,12 +17,13 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/milksafe.git
-```bash
+```
 
 Usage
 Run the milksafe.sh script, providing the required input files and options:
+```bash
 ./milksafe.sh -d protein_database.csv -m milk_sample.txt -e exosome_sample.txt
-
+```
 Options
 -d <protein table>: Specify the protein database for the analysis.
 -m <input file>: Specify the input file containing a protein list (milk sample).
