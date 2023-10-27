@@ -35,12 +35,12 @@ The tool will perform protein analysis and generate output files.
 Output
 MilkSafe will create several output files, including:
 
-exosome_proteins.tsv: Proteins detected in exosome samples.
-
 Tables:
+exosome_proteins.tsv: Proteins detected in exosome samples.
 milk_proteins.tsv: Proteins detected in milk samples.
 miss_exosome_proteins.tsv: Proteins not detected in exosome samples.
 miss_milk_proteins.tsv: Proteins not detected in milk samples.
+
 Plots:
 UpSetPlot_exosomes.jpg: UpSet plot for exosome proteins.
 UpSetPlot_milk.jpg: UpSet plot for milk proteins.
