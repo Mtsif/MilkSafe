@@ -32,7 +32,7 @@ Options
 
 The tool will perform protein analysis and generate output files.
 
-Output
+### Output
 MilkSafe will create several output files, including:
 
 Tables:
