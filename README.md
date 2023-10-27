@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/milksafe.git
 Usage
 Run the milksafe.sh script, providing the required input files and options:
 ```bash
-./milksafe.sh -d protein_database.csv -m milk_sample.txt -e exosome_sample.txt
+./milksafe.sh -d protein_database.csv -i sample.txt
 ```
 Options
 ```bash
