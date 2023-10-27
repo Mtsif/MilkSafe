@@ -25,7 +25,7 @@ Run the milksafe.sh script, providing the required input files and options:
 ./milksafe.sh -d protein_database.csv -i sample.txt
 ```
 Options
-```bash
+```
 -d <protein table>: Specify the protein database for the analysis.
 -i <input file>: Specify the input file containing a protein list.
 ```
@@ -38,17 +38,15 @@ MilkSafe will create several output files, including:
 Tables:
 ```
 exosome_proteins.tsv: Proteins detected in exosome samples.
-```
 milk_proteins.tsv: Proteins detected in milk samples.
-
 miss_exosome_proteins.tsv: Proteins not detected in exosome samples.
-
 miss_milk_proteins.tsv: Proteins not detected in milk samples.
-
+```
 Plots:
+```
 UpSetPlot_exosomes.jpg: UpSet plot for exosome proteins.
-
 UpSetPlot_milk.jpg: UpSet plot for milk proteins.
+```
 
 Author
 Margaritis Tsifintaris
